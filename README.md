@@ -1,4 +1,8 @@
-# Markov Process
+### EX.NO : 05
+
+### DATE : 
+
+# <p align="center"> Markov Process </p> 
 
 
 # Aim : 
@@ -24,6 +28,13 @@ Assumptions for Markov Chain :
 
 
 # Program
+
+### DEVELOPED BY 
+
+### NAME : PRIYADARSHINI  R 
+
+### REG.NO : 212220230038
+
 ```python 3
 
 import numpy as np
